@@ -1,6 +1,6 @@
 # Order Summary Component
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4394b7c9-884b-4762-a91c-bc0bad098b93/deploy-status)](https://app.netlify.com/sites/jovial-knuth-7cd3bd/deploys)
 
 ## Description
 
