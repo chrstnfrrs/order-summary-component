@@ -50,6 +50,7 @@ export default {
     background-color: var(--white);
     border-radius: 1.25rem;
     max-width: 28.125rem;
+    filter: drop-shadow(0 40px 40px hsl(228, 87%, 39%, 15.18%));
   }
   &__body {
     display: flex;
